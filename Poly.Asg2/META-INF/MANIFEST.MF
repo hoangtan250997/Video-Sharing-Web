@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Asg2
+Bundle-SymbolicName: Poly.Asg2
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: Poly.Asg2
+Export-Package: edu.poly.admin.servlet,
+ edu.poly.common,
+ edu.poly.dao,
+ edu.poly.model,
+ edu.poly.site.servlet
